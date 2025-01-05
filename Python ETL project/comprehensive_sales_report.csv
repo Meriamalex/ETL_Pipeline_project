@@ -1,0 +1,124 @@
+sale_id,date,customer_id,quantity,price,product_id,product_name,category,customer_name,total_amount,profit_margin
+1001,,C101,2,29.99,P201,Wireless Mouse,Electronics,Alex Johnson,59.98,0.3331110370123374
+1002,,C102,1,49.99,P202,LED Desk Lamp,Home & Office,Emily Davis,49.99,0.2998599719943989
+1003,,C103,3,15.99,P203,Notebook Set,Stationery,Michael Brown,47.97,0.37460913070669166
+1004,,C101,1,99.99,P204,Bluetooth Speaker,Electronics,Alex Johnson,99.99,0.24992499249924988
+1005,,C104,2,29.99,P201,Wireless Mouse,Electronics,Sophia Wilson,59.98,0.3331110370123374
+1006,,C105,4,49.99,P202,LED Desk Lamp,Home & Office,Daniel Smith,199.96,0.2998599719943989
+1007,,C106,1,15.99,P203,Notebook Set,Stationery,Olivia Martin,15.99,0.3746091307066917
+1008,,C107,5,99.99,P204,Bluetooth Speaker,Electronics,Matthew Clark,499.95,0.2499249924992499
+1009,,C108,2,29.99,P201,Wireless Mouse,Electronics,Isabella Lewis,59.98,0.3331110370123374
+1010,,C109,3,49.99,P202,LED Desk Lamp,Home & Office,Ethan Walker,149.97,0.2998599719943989
+1011,,C110,2,15.99,P203,Notebook Set,Stationery,Mia Hall,31.98,0.3746091307066917
+1012,,C111,4,99.99,P204,Bluetooth Speaker,Electronics,William Young,399.96,0.24992499249924988
+1013,,C112,1,29.99,P201,Wireless Mouse,Electronics,Ava Hernandez,29.99,0.3331110370123374
+1014,,C113,5,49.99,P202,LED Desk Lamp,Home & Office,James King,249.95000000000002,0.29985997199439895
+1015,,C114,3,15.99,P203,Notebook Set,Stationery,Charlotte Wright,47.97,0.37460913070669166
+1016,,C115,2,99.99,P204,Bluetooth Speaker,Electronics,Logan Lopez,199.98,0.24992499249924988
+1017,,C116,4,29.99,P201,Wireless Mouse,Electronics,Amelia Hill,119.96,0.3331110370123374
+1018,,C117,1,49.99,P202,LED Desk Lamp,Home & Office,Benjamin Scott,49.99,0.2998599719943989
+1019,,C118,5,15.99,P203,Notebook Set,Stationery,Evelyn Green,79.95,0.3746091307066917
+1020,,C119,3,99.99,P204,Bluetooth Speaker,Electronics,Jacob Adams,299.96999999999997,0.24992499249924985
+1022,,C121,4,49.99,P202,LED Desk Lamp,Home & Office,Alexander Gonzalez,199.96,0.2998599719943989
+1023,,C122,1,15.99,P203,Notebook Set,Stationery,Abigail Nelson,15.99,0.3746091307066917
+1024,,C123,5,99.99,P204,Bluetooth Speaker,Electronics,Jackson Carter,499.95,0.2499249924992499
+1025,,C124,3,29.99,P201,Wireless Mouse,Electronics,Emily Mitchell,89.97,0.33311103701233746
+1026,,C125,2,49.99,P202,LED Desk Lamp,Home & Office,Liam Perez,99.98,0.2998599719943989
+1027,,C126,4,15.99,P203,Notebook Set,Stationery,Sophia Roberts,63.96,0.3746091307066917
+1028,,C127,1,99.99,P204,Bluetooth Speaker,Electronics,Noah Turner,99.99,0.24992499249924988
+1029,,C128,5,29.99,P201,Wireless Mouse,Electronics,Grace Phillips,149.95,0.3331110370123374
+1030,,C129,3,49.99,P202,LED Desk Lamp,Home & Office,Elijah Campbell,149.97,0.2998599719943989
+1031,,C130,2,15.99,P203,Notebook Set,Stationery,Chloe Parker,31.98,0.3746091307066917
+1032,,C131,4,99.99,P204,Bluetooth Speaker,Electronics,Aiden Evans,399.96,0.24992499249924988
+1033,,C132,1,29.99,P201,Wireless Mouse,Electronics,Victoria Edwards,29.99,0.3331110370123374
+1034,,C133,5,49.99,P202,LED Desk Lamp,Home & Office,Lucas Collins,249.95000000000002,0.29985997199439895
+1035,,C134,3,15.99,P203,Notebook Set,Stationery,Penelope Stewart,47.97,0.37460913070669166
+1036,,C135,2,99.99,P204,Bluetooth Speaker,Electronics,Oliver Sanchez,199.98,0.24992499249924988
+1037,,C136,4,29.99,P201,Wireless Mouse,Electronics,Lily Morris,119.96,0.3331110370123374
+1038,,C137,1,49.99,P202,LED Desk Lamp,Home & Office,Henry Rogers,49.99,0.2998599719943989
+1039,,C138,5,15.99,P203,Notebook Set,Stationery,Ella Reed,79.95,0.3746091307066917
+1040,,C139,3,99.99,P204,Bluetooth Speaker,Electronics,Samuel Cook,299.96999999999997,0.24992499249924985
+1041,,C140,2,29.99,P201,Wireless Mouse,Electronics,Madison Morgan,59.98,0.3331110370123374
+1042,,C141,4,49.99,P202,LED Desk Lamp,Home & Office,Daniel Bell,199.96,0.2998599719943989
+1043,,C142,1,15.99,P203,Notebook Set,Stationery,Sofia Murphy,15.99,0.3746091307066917
+1044,,C143,5,99.99,P204,Bluetooth Speaker,Electronics,Joseph Bailey,499.95,0.2499249924992499
+1045,,C144,3,29.99,P201,Wireless Mouse,Electronics,Hannah Rivera,89.97,0.33311103701233746
+1046,,C145,2,49.99,P202,LED Desk Lamp,Home & Office,David Cooper,99.98,0.2998599719943989
+1047,,C146,4,15.99,P203,Notebook Set,Stationery,Aria Richardson,63.96,0.3746091307066917
+1048,,C147,1,99.99,P204,Bluetooth Speaker,Electronics,Carter Cox,99.99,0.24992499249924988
+1049,,C148,5,29.99,P201,Wireless Mouse,Electronics,Scarlett Howard,149.95,0.3331110370123374
+1050,,C149,3,49.99,P202,LED Desk Lamp,Home & Office,Owen Ward,149.97,0.2998599719943989
+1051,,C150,2,15.99,P203,Notebook Set,Stationery,Lillian Torres,31.98,0.3746091307066917
+1052,,C151,4,99.99,P204,Bluetooth Speaker,Electronics,Wyatt Peterson,399.96,0.24992499249924988
+1053,,C152,1,29.99,P201,Wireless Mouse,Electronics,Ella Gray,29.99,0.3331110370123374
+1054,,C153,5,49.99,P202,LED Desk Lamp,Home & Office,Jack Ramirez,249.95000000000002,0.29985997199439895
+1055,,C154,3,15.99,P203,Notebook Set,Stationery,Eleanor James,47.97,0.37460913070669166
+1056,,C155,2,99.99,P204,Bluetooth Speaker,Electronics,Matthew Brooks,199.98,0.24992499249924988
+1057,,C156,4,29.99,P201,Wireless Mouse,Electronics,Avery Kelly,119.96,0.3331110370123374
+1058,,C157,1,49.99,P202,LED Desk Lamp,Home & Office,Sebastian Sanders,49.99,0.2998599719943989
+1059,,C158,5,15.99,P203,Notebook Set,Stationery,Zoey Price,79.95,0.3746091307066917
+1060,,C159,3,99.99,P204,Bluetooth Speaker,Electronics,Caleb Bennett,299.96999999999997,0.24992499249924985
+1061,,C160,2,29.99,P201,Wireless Mouse,Electronics,Nora Wood,59.98,0.3331110370123374
+1062,,C161,4,49.99,P202,LED Desk Lamp,Home & Office,Andrew Barnes,199.96,0.2998599719943989
+1063,,C162,1,15.99,P203,Notebook Set,Stationery,Riley Ross,15.99,0.3746091307066917
+1064,,C163,5,99.99,P204,Bluetooth Speaker,Electronics,Isaac Henderson,499.95,0.2499249924992499
+1065,,C164,3,29.99,P201,Wireless Mouse,Electronics,Samantha Coleman,89.97,0.33311103701233746
+1066,,C165,2,49.99,P202,LED Desk Lamp,Home & Office,Ryan Jenkins,99.98,0.2998599719943989
+1067,,C166,4,15.99,P203,Notebook Set,Stationery,Leah Perry,63.96,0.3746091307066917
+1068,,C167,1,99.99,P204,Bluetooth Speaker,Electronics,Christopher Powell,99.99,0.24992499249924988
+1069,,C168,5,29.99,P201,Wireless Mouse,Electronics,Audrey Long,149.95,0.3331110370123374
+1070,,C169,3,49.99,P202,LED Desk Lamp,Home & Office,Nathan Patterson,149.97,0.2998599719943989
+1071,,C170,2,15.99,P203,Notebook Set,Stationery,Grace Hughes,31.98,0.3746091307066917
+1072,,C171,4,99.99,P204,Bluetooth Speaker,Electronics,Thomas Flores,399.96,0.24992499249924988
+1073,,C172,1,29.99,P201,Wireless Mouse,Electronics,Violet Simmons,29.99,0.3331110370123374
+1074,,C173,5,49.99,P202,LED Desk Lamp,Home & Office,Caleb Foster,249.95000000000002,0.29985997199439895
+1075,,C174,3,15.99,P203,Notebook Set,Stationery,Lily Butler,47.97,0.37460913070669166
+1076,,C175,2,99.99,P204,Bluetooth Speaker,Electronics,Jonathan Richardson,199.98,0.24992499249924988
+1077,,C176,4,29.99,P201,Wireless Mouse,Electronics,Zoe Bryant,119.96,0.3331110370123374
+1078,,C177,1,49.99,P202,LED Desk Lamp,Home & Office,Charles Alexander,49.99,0.2998599719943989
+1079,,C178,5,15.99,P203,Notebook Set,Stationery,Stella Russell,79.95,0.3746091307066917
+1080,,C179,3,99.99,P204,Bluetooth Speaker,Electronics,Christian Griffin,299.96999999999997,0.24992499249924985
+1081,,C180,2,29.99,P201,Wireless Mouse,Electronics,Evelyn Diaz,59.98,0.3331110370123374
+1082,,C181,4,49.99,P202,LED Desk Lamp,Home & Office,Aaron Hayes,199.96,0.2998599719943989
+1083,,C182,1,15.99,P203,Notebook Set,Stationery,Lucy Myers,15.99,0.3746091307066917
+1084,,C183,5,99.99,P204,Bluetooth Speaker,Electronics,Adam Ford,499.95,0.2499249924992499
+1085,,C184,3,29.99,P201,Wireless Mouse,Electronics,Victoria Hamilton,89.97,0.33311103701233746
+1086,,C185,2,49.99,P202,LED Desk Lamp,Home & Office,Isaiah Graham,99.98,0.2998599719943989
+1087,,C186,4,15.99,P203,Notebook Set,Stationery,Brooklyn Wallace,63.96,0.3746091307066917
+1088,,C187,1,99.99,P204,Bluetooth Speaker,Electronics,Nicholas West,99.99,0.24992499249924988
+1089,,C188,5,29.99,P201,Wireless Mouse,Electronics,Anna Cole,149.95,0.3331110370123374
+1090,,C189,3,49.99,P202,LED Desk Lamp,Home & Office,Jeremiah Jordan,149.97,0.2998599719943989
+1091,,C190,2,15.99,P203,Notebook Set,Stationery,Hazel Reynolds,31.98,0.3746091307066917
+1092,,C191,4,99.99,P204,Bluetooth Speaker,Electronics,Joshua Fisher,399.96,0.24992499249924988
+1093,,C192,1,29.99,P201,Wireless Mouse,Electronics,Claire Kim,29.99,0.3331110370123374
+1094,,C193,5,49.99,P202,LED Desk Lamp,Home & Office,Levi Butler,249.95000000000002,0.29985997199439895
+1095,,C194,3,15.99,P203,Notebook Set,Stationery,Aria Bennett,47.97,0.37460913070669166
+1096,,C195,2,99.99,P204,Bluetooth Speaker,Electronics,David Cox,199.98,0.24992499249924988
+1097,,C196,4,29.99,P201,Wireless Mouse,Electronics,Scarlett Nguyen,119.96,0.3331110370123374
+1098,,C197,1,49.99,P202,LED Desk Lamp,Home & Office,Isaac Brooks,49.99,0.2998599719943989
+1099,,C198,5,15.99,P203,Notebook Set,Stationery,Luna Ward,79.95,0.3746091307066917
+1100,,C199,3,99.99,P204,Bluetooth Speaker,Electronics,Julian Torres,299.96999999999997,0.24992499249924985
+1101,,C200,2,29.99,P201,Wireless Mouse,Electronics,Sadie Peterson,59.98,0.3331110370123374
+1102,,C101,4,49.99,P202,LED Desk Lamp,Home & Office,Alex Johnson,199.96,0.2998599719943989
+1103,,C102,1,15.99,P203,Notebook Set,Stationery,Emily Davis,15.99,0.3746091307066917
+1104,,C103,5,99.99,P204,Bluetooth Speaker,Electronics,Michael Brown,499.95,0.2499249924992499
+1105,,C104,3,29.99,P201,Wireless Mouse,Electronics,Sophia Wilson,89.97,0.33311103701233746
+1106,,C105,2,49.99,P202,LED Desk Lamp,Home & Office,Daniel Smith,99.98,0.2998599719943989
+1107,,C106,4,15.99,P203,Notebook Set,Stationery,Olivia Martin,63.96,0.3746091307066917
+1108,,C107,1,99.99,P204,Bluetooth Speaker,Electronics,Matthew Clark,99.99,0.24992499249924988
+1109,,C108,5,29.99,P201,Wireless Mouse,Electronics,Isabella Lewis,149.95,0.3331110370123374
+1110,,C109,3,49.99,P202,LED Desk Lamp,Home & Office,Ethan Walker,149.97,0.2998599719943989
+1111,,C110,2,15.99,P203,Notebook Set,Stationery,Mia Hall,31.98,0.3746091307066917
+1112,,C111,4,99.99,P204,Bluetooth Speaker,Electronics,William Young,399.96,0.24992499249924988
+1113,,C112,1,29.99,P201,Wireless Mouse,Electronics,Ava Hernandez,29.99,0.3331110370123374
+1114,,C113,5,49.99,P202,LED Desk Lamp,Home & Office,James King,249.95000000000002,0.29985997199439895
+1115,,C114,3,15.99,P203,Notebook Set,Stationery,Charlotte Wright,47.97,0.37460913070669166
+1116,,C115,2,99.99,P204,Bluetooth Speaker,Electronics,Logan Lopez,199.98,0.24992499249924988
+1117,,C116,4,29.99,P201,Wireless Mouse,Electronics,Amelia Hill,119.96,0.3331110370123374
+1118,,C117,1,49.99,P202,LED Desk Lamp,Home & Office,Benjamin Scott,49.99,0.2998599719943989
+1119,,C118,5,15.99,P203,Notebook Set,Stationery,Evelyn Green,79.95,0.3746091307066917
+1120,,C119,3,99.99,P204,Bluetooth Speaker,Electronics,Jacob Adams,299.96999999999997,0.24992499249924985
+1122,,C121,4,49.99,P202,LED Desk Lamp,Home & Office,Alexander Gonzalez,199.96,0.2998599719943989
+1123,,C122,1,15.99,P203,Notebook Set,Stationery,Abigail Nelson,15.99,0.3746091307066917
+1124,,C123,5,99.99,P204,Bluetooth Speaker,Electronics,Jackson Carter,499.95,0.2499249924992499
+1125,,C124,3,29.99,P201,Wireless Mouse,Electronics,Emily Mitchell,89.97,0.33311103701233746

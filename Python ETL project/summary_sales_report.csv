@@ -1,0 +1,104 @@
+customer_id,customer_name,product_id,product_name,total_sales,total_quantity
+C101,Alex Johnson,P201,Wireless Mouse,59.98,2
+C102,Emily Davis,P202,LED Desk Lamp,49.99,1
+C103,Michael Brown,P203,Notebook Set,47.97,3
+C101,Alex Johnson,P204,Bluetooth Speaker,99.99,1
+C104,Sophia Wilson,P201,Wireless Mouse,149.95,5
+C105,Daniel Smith,P202,LED Desk Lamp,299.94,6
+C106,Olivia Martin,P203,Notebook Set,79.95,5
+C107,Matthew Clark,P204,Bluetooth Speaker,599.9399999999999,6
+C108,Isabella Lewis,P201,Wireless Mouse,209.92999999999998,7
+C109,Ethan Walker,P202,LED Desk Lamp,299.94,6
+C110,Mia Hall,P203,Notebook Set,63.96,4
+C111,William Young,P204,Bluetooth Speaker,799.92,8
+C112,Ava Hernandez,P201,Wireless Mouse,59.98,2
+C113,James King,P202,LED Desk Lamp,499.90000000000003,10
+C114,Charlotte Wright,P203,Notebook Set,95.94,6
+C115,Logan Lopez,P204,Bluetooth Speaker,399.96,4
+C116,Amelia Hill,P201,Wireless Mouse,239.92,8
+C117,Benjamin Scott,P202,LED Desk Lamp,99.98,2
+C118,Evelyn Green,P203,Notebook Set,159.9,10
+C119,Jacob Adams,P204,Bluetooth Speaker,599.9399999999999,6
+C121,Alexander Gonzalez,P202,LED Desk Lamp,399.92,8
+C122,Abigail Nelson,P203,Notebook Set,31.98,2
+C123,Jackson Carter,P204,Bluetooth Speaker,999.9,10
+C124,Emily Mitchell,P201,Wireless Mouse,179.94,6
+C125,Liam Perez,P202,LED Desk Lamp,99.98,2
+C126,Sophia Roberts,P203,Notebook Set,63.96,4
+C127,Noah Turner,P204,Bluetooth Speaker,99.99,1
+C128,Grace Phillips,P201,Wireless Mouse,149.95,5
+C129,Elijah Campbell,P202,LED Desk Lamp,149.97,3
+C130,Chloe Parker,P203,Notebook Set,31.98,2
+C131,Aiden Evans,P204,Bluetooth Speaker,399.96,4
+C132,Victoria Edwards,P201,Wireless Mouse,29.99,1
+C133,Lucas Collins,P202,LED Desk Lamp,249.95000000000002,5
+C134,Penelope Stewart,P203,Notebook Set,47.97,3
+C135,Oliver Sanchez,P204,Bluetooth Speaker,199.98,2
+C136,Lily Morris,P201,Wireless Mouse,119.96,4
+C137,Henry Rogers,P202,LED Desk Lamp,49.99,1
+C138,Ella Reed,P203,Notebook Set,79.95,5
+C139,Samuel Cook,P204,Bluetooth Speaker,299.96999999999997,3
+C140,Madison Morgan,P201,Wireless Mouse,59.98,2
+C141,Daniel Bell,P202,LED Desk Lamp,199.96,4
+C142,Sofia Murphy,P203,Notebook Set,15.99,1
+C143,Joseph Bailey,P204,Bluetooth Speaker,499.95,5
+C144,Hannah Rivera,P201,Wireless Mouse,89.97,3
+C145,David Cooper,P202,LED Desk Lamp,99.98,2
+C146,Aria Richardson,P203,Notebook Set,63.96,4
+C147,Carter Cox,P204,Bluetooth Speaker,99.99,1
+C148,Scarlett Howard,P201,Wireless Mouse,149.95,5
+C149,Owen Ward,P202,LED Desk Lamp,149.97,3
+C150,Lillian Torres,P203,Notebook Set,31.98,2
+C151,Wyatt Peterson,P204,Bluetooth Speaker,399.96,4
+C152,Ella Gray,P201,Wireless Mouse,29.99,1
+C153,Jack Ramirez,P202,LED Desk Lamp,249.95000000000002,5
+C154,Eleanor James,P203,Notebook Set,47.97,3
+C155,Matthew Brooks,P204,Bluetooth Speaker,199.98,2
+C156,Avery Kelly,P201,Wireless Mouse,119.96,4
+C157,Sebastian Sanders,P202,LED Desk Lamp,49.99,1
+C158,Zoey Price,P203,Notebook Set,79.95,5
+C159,Caleb Bennett,P204,Bluetooth Speaker,299.96999999999997,3
+C160,Nora Wood,P201,Wireless Mouse,59.98,2
+C161,Andrew Barnes,P202,LED Desk Lamp,199.96,4
+C162,Riley Ross,P203,Notebook Set,15.99,1
+C163,Isaac Henderson,P204,Bluetooth Speaker,499.95,5
+C164,Samantha Coleman,P201,Wireless Mouse,89.97,3
+C165,Ryan Jenkins,P202,LED Desk Lamp,99.98,2
+C166,Leah Perry,P203,Notebook Set,63.96,4
+C167,Christopher Powell,P204,Bluetooth Speaker,99.99,1
+C168,Audrey Long,P201,Wireless Mouse,149.95,5
+C169,Nathan Patterson,P202,LED Desk Lamp,149.97,3
+C170,Grace Hughes,P203,Notebook Set,31.98,2
+C171,Thomas Flores,P204,Bluetooth Speaker,399.96,4
+C172,Violet Simmons,P201,Wireless Mouse,29.99,1
+C173,Caleb Foster,P202,LED Desk Lamp,249.95000000000002,5
+C174,Lily Butler,P203,Notebook Set,47.97,3
+C175,Jonathan Richardson,P204,Bluetooth Speaker,199.98,2
+C176,Zoe Bryant,P201,Wireless Mouse,119.96,4
+C177,Charles Alexander,P202,LED Desk Lamp,49.99,1
+C178,Stella Russell,P203,Notebook Set,79.95,5
+C179,Christian Griffin,P204,Bluetooth Speaker,299.96999999999997,3
+C180,Evelyn Diaz,P201,Wireless Mouse,59.98,2
+C181,Aaron Hayes,P202,LED Desk Lamp,199.96,4
+C182,Lucy Myers,P203,Notebook Set,15.99,1
+C183,Adam Ford,P204,Bluetooth Speaker,499.95,5
+C184,Victoria Hamilton,P201,Wireless Mouse,89.97,3
+C185,Isaiah Graham,P202,LED Desk Lamp,99.98,2
+C186,Brooklyn Wallace,P203,Notebook Set,63.96,4
+C187,Nicholas West,P204,Bluetooth Speaker,99.99,1
+C188,Anna Cole,P201,Wireless Mouse,149.95,5
+C189,Jeremiah Jordan,P202,LED Desk Lamp,149.97,3
+C190,Hazel Reynolds,P203,Notebook Set,31.98,2
+C191,Joshua Fisher,P204,Bluetooth Speaker,399.96,4
+C192,Claire Kim,P201,Wireless Mouse,29.99,1
+C193,Levi Butler,P202,LED Desk Lamp,249.95000000000002,5
+C194,Aria Bennett,P203,Notebook Set,47.97,3
+C195,David Cox,P204,Bluetooth Speaker,199.98,2
+C196,Scarlett Nguyen,P201,Wireless Mouse,119.96,4
+C197,Isaac Brooks,P202,LED Desk Lamp,49.99,1
+C198,Luna Ward,P203,Notebook Set,79.95,5
+C199,Julian Torres,P204,Bluetooth Speaker,299.96999999999997,3
+C200,Sadie Peterson,P201,Wireless Mouse,59.98,2
+C101,Alex Johnson,P202,LED Desk Lamp,199.96,4
+C102,Emily Davis,P203,Notebook Set,15.99,1
+C103,Michael Brown,P204,Bluetooth Speaker,499.95,5
